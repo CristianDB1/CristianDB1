@@ -1,5 +1,5 @@
 <h1 align="center">
-# 💻 **Sobre Mí**
+💻 Sobre Mí
 </h1>
 
 <p align="center"> 🌱 ¡Hola! Soy Cristian Delgado Berrio </p>
@@ -8,17 +8,14 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. S
 
 **Desarrollador especializado en:**
 
-<p>
-<div align="center">
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)   
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-</div>
-</p>
+
 ---
 
-<div>
+
 ## 🚀 **Familiarizado con**
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,7 +30,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. S
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
+
 ---
 
 ## 📊 **Stats de GitHub**
@@ -51,7 +48,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. S
 -->
 
 <div align="center">
-  ## 📫 **Contacto**
+   <h1>📫 Contacto </h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
     <a href="https://www.instagram.com/cristian._db/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
