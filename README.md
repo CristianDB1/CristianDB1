@@ -4,14 +4,21 @@
 
 <p align="center"> 🌱 ¡Hola! Soy Cristian Delgado Berrio </p>
 
-Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Siempre estoy aprendiendo y experimentando con nuevas tecnologías para mejorar mis habilidades y ofrecer lo mejor en cada proyecto.
+<p align="center">Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Siempre estoy aprendiendo y experimentando con nuevas tecnologías para mejorar mis habilidades y ofrecer lo mejor en cada proyecto. </p>
 
-**Desarrollador especializado en:**
+<p align="center">
+   <h2>Desarrollador especializado en:</h2>
+</p>
 
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)   
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+
+<p>
+   <div align="center">
+      <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
+   </div>
+</p>
 
 ---
 
