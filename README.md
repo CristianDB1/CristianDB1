@@ -1,16 +1,24 @@
+<h1 align="center">
 # 💻 **Sobre Mí**
-🌱 ¡Hola! Soy Cristian Delgado Berrio
+</h1>
+
+<p align="center"> 🌱 ¡Hola! Soy Cristian Delgado Berrio </p>
+
 Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Siempre estoy aprendiendo y experimentando con nuevas tecnologías para mejorar mis habilidades y ofrecer lo mejor en cada proyecto.
 
 **Desarrollador especializado en:**
 
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) Java  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) JavaScript  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) Spring Boot  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) Node.js
-
+<p>
+<div align="center">
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)   
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+</div>
+</p>
 ---
 
+<div>
 ## 🚀 **Familiarizado con**
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,12 +33,12 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. S
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+</div>
 ---
 
 ## 📊 **Stats de GitHub**
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario_github&show_icons=true&theme=radical&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_github&layout=compact&theme=radical&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CristianDB1_github&show_icons=true&theme=radical&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDB1_github&layout=compact&theme=radical&hide_border=true)
 
 ---
 <!--
@@ -42,12 +50,14 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. S
 ---
 -->
 
-## 📫 **Contacto**
-- **Email**: [Email](mailto:crdelgadobe@gmail.com)
-- **LinkedIn**: [Tu LinkedIn](https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/)
-- **Portfolio**: [Tu Portfolio](https://tuportfolio.com)
-
----
+<div align="center">
+  ## 📫 **Contacto**
+<p align="center">
+    <a href="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+    <a href="https://www.instagram.com/cristian._db/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+    <a href="mailto:crdelgadobe@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981600-bd88b5f1-27d1-4b0c-bb3f-675ef8c35d30.png" alt="email" height="50" width="50" /></a>
+</p>
+</div>
 
 ¡Gracias por visitar mi perfil! 💖
 
