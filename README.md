@@ -24,7 +24,7 @@
 <h2 align="center">🚀 Familiarizado con</h2>
 
 <p>
-   <div>
+   <div align="center">
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
@@ -80,9 +80,10 @@
 <div align="center">
    <h1>📫 Contacto </h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-    <a href="https://www.instagram.com/cristian._db/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-    <a href="mailto:crdelgadobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="50" width="50" /></a>
+   <a href="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100089992998319&locale=es_LA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Cristna Delgado" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/cristian._db/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristian._db" height="30" width="40" /></a>
+   <a href="mailto:crdelgadobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" /></a>
 </p>
 </div>
 
