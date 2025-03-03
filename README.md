@@ -67,15 +67,10 @@
 <br>
 <br>
 
----
-<!--
-## ✨ **Proyectos Destacados**
-- **[Nombre del Proyecto 1](#)**: Descripción breve del proyecto.
-- **[Nombre del Proyecto 2](#)**: Descripción breve del proyecto.
-- **[Nombre del Proyecto 3](#)**: Descripción breve del proyecto.
-
----
--->
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <div align="center">
    <h1>📫 Contacto </h1>
