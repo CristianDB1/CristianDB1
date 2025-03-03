@@ -67,11 +67,6 @@
 <br>
 <br>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/CristianDB1/CristianDB1/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 <div align="center">
    <h1>📫 Contacto </h1>
 <p align="center">
