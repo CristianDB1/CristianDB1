@@ -2,22 +2,29 @@ name: Update Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:     
+    - cron: "0 0 * * *"  # Ejecución diaria
+  workflow_dispatch:     # Permite ejecución manual
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necesario para poder crear el branch
+    
     steps:
-      - name: Generate Snake
+      - name: Generate Snake SVG
         uses: platane/snk@master
         with:
           github_user_name: CristianDB1
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Deploy to Branch
-        uses: peaceiris/actions-gh-pages@v3
+          svg_out_path: snake.svg
+          
+      - name: Upload to Snake Branch
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: snake-output 
+          path: snake.svg
+          
+      - name: Deploy to Branch
+        uses: actions/deploy-pages@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: snake-output
