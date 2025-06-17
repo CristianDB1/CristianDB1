@@ -99,5 +99,5 @@
 <h2 align="center">¡Gracias por visitar mi perfil! 💖</h2>
 
 <p align="center">
-  <img src="https://github.com/CristianDB1/CristianDB1/blob/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
