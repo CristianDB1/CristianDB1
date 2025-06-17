@@ -56,24 +56,26 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  <!-- Estadísticas principales -->
   <a href="https://github.com/CristianDB1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CristianDB1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDB1&theme=dark" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CristianDB1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDB1&theme=dark" alt="Racha de contribuciones" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianDB1&layout=compact&theme=dark&hide=jupyter%20notebook,lex&langs_count=8" alt="Lenguajes más usados" />
+  
+  <!-- Lenguajes más usados -->
+  <a href="https://github.com/CristianDB1">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDB1&layout=compact&theme=dark&hide=jupyter%20notebook,lex&langs_count=6" alt="Lenguajes más usados" />
+  </a>
 </div>
 
 ---
 
 ## 🌱 Actualmente estoy...
 
-- 🔭 Trabajando en proyectos personales con Spring Boot y React
-- 🌱 Aprendiendo sobre inteligencia artificial con Python
-- 💡 Explorando el mundo del análisis de datos con Power BI
-- 🤝 Buscando colaborar en proyectos open source interesantes
+- 🔭 Trabajando en proyectos personales con Spring Boot y React  
+- 🌱 Aprendiendo sobre inteligencia artificial con Python  
+- 💡 Explorando el mundo del análisis de datos con Power BI  
+- 🤝 Buscando colaborar en proyectos open source interesantes  
 
 ---
 
@@ -96,10 +98,8 @@
 
 ---
 
-<h1 align="center">
-  ¡Gracias por visitar mi perfil! 💖
-</h1>
+<h2 align="center">¡Gracias por visitar mi perfil! 💖</h2>
 
 <p align="center">
-  <img src="https://github.com/CristianDB1/CristianDB1/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/CristianDB1/CristianDB1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
