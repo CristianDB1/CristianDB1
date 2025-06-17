@@ -58,7 +58,7 @@
 <div align="center">
   <!-- Estadísticas principales -->
   <a href="https://github.com/CristianDB1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CristianDB1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianDB1&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Estadísticas de GitHub" />
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDB1&theme=dark" alt="Racha de contribuciones" />
   </a>
   
