@@ -1,95 +1,105 @@
 <h1 align="center">
-💻 Sobre Mí
+  👋 ¡Hola! Soy Cristian Delgado Berrio
 </h1>
 
-<p align="center"> 🌱 ¡Hola! Soy Cristian Delgado Berrio </p>
+<p align="center">
+  <b>Desarrollador Full Stack | Apasionado por la tecnología | Aprendiz constante</b>
+</p>
 
-<p align="center">Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Siempre estoy aprendiendo y experimentando con nuevas tecnologías para mejorar mis habilidades y ofrecer lo mejor en cada proyecto. </p>
-
-<h2 align="center">Desarrollador especializado en</h2>
-
-
-
-<p>
-   <div align="center">
-      <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
-      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-   </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CristianDB1&label=Profile%20views&color=0e75b6&style=flat" alt="CristianDB1" /> 
+  <a href="https://github.com/CristianDB1?tab=followers">
+    <img src="https://img.shields.io/github/followers/CristianDB1?label=Followers&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🚀 Familiarizado con</h2>
+## 🛠 Tecnologías y Herramientas
 
-<p>
-   <div align="center">
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-   </div>
+### 💻 Especializado en
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
-
-<hr>
-<div style="display: block;">
-<p>
-  <h2 align="center">Stats</h2>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianDB1&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="CristianDB1" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CristianDB1&show_icons=true&theme=dark&locale=en" alt="CristianDB1" /></p></a>  
-  </p>
+### 🚀 Familiarizado con
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
+  
+  <!-- Bases de datos -->
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  
+  <!-- Herramientas -->
+  <img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
-</div>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-   <h1>📫 Contacto </h1>
-<p align="center">
-   <a href="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100089992998319&locale=es_LA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Cristna Delgado" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/cristian._db/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristian._db" height="30" width="40" /></a>
-   <a href="mailto:crdelgadobe@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" /></a>
-</p>
+  <a href="https://github.com/CristianDB1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CristianDB1&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDB1&theme=dark" />
+  </a>
 </div>
 
-<h1 align="center">¡Gracias por visitar mi perfil! 💖</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianDB1&layout=compact&theme=dark&hide=jupyter%20notebook,lex&langs_count=8" alt="Lenguajes más usados" />
+</div>
 
-<!--
-**CristianDB1/CristianDB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Actualmente estoy...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabajando en proyectos personales con Spring Boot y React
+- 🌱 Aprendiendo sobre inteligencia artificial con Python
+- 💡 Explorando el mundo del análisis de datos con Power BI
+- 🤝 Buscando colaborar en proyectos open source interesantes
+
+---
+
+## 📫 ¡Conéctate conmigo!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cristian-delgado-berrio-1952122ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/cristian._db/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:crdelgadobe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100089992998319&locale=es_LA" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+---
+
+<h1 align="center">
+  ¡Gracias por visitar mi perfil! 💖
+</h1>
+
+<p align="center">
+  <img src="https://github.com/CristianDB1/CristianDB1/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
