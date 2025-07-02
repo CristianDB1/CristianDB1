@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack | Apasionado por la tecnología | Aprendiz constante</b>
+  <b>Desarrollador Backend | Apasionado por la tecnología | Aprendiz constante</b>
 </p>
 
 <p align="center">
