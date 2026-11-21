@@ -33,7 +33,7 @@ Soy desarrollador de software de **Carepa, Antioquia (Urabá)**. Me dedico a con
 
 | Proyecto | Qué es | Tecnologías | Enlaces |
 |---|---|---|---|
-| 🏢 **BizFlow** | Plataforma **SaaS multi-tenant** para pequeñas empresas: gestión de citas, imágenes en la nube y sesiones seguras. | `Next.js 16` `React 19` `Prisma 7` `PostgreSQL` `Supabase` | [🔗 Demo](https://bizflow-swart.vercel.app) |
+| 🏢 **BizFlow** | Plataforma **SaaS multi-tenant** para pequeñas empresas: gestión de citas, imágenes en la nube y sesiones seguras. | `Next.js 16` `React 19` `Prisma 7` `PostgreSQL` `Supabase` | [🔗 Demo](https://bizflow-ebon.vercel.app) |
 | 🚢 **Urabá Logix** | Sistema de **trazabilidad y cadena de custodia** de carga agrícola y contenedores en el puerto. QR firmados con HMAC SHA-256, escáner móvil con GPS, roles y bitácora de auditoría. | `Next.js` `TypeScript` `Tailwind` `Prisma` `JWT` | [🔗 Demo](https://ura-logix-tau.vercel.app) |
 | 🛒 **Catálogo Express** | Catálogo digital con **pedidos directo a WhatsApp**, pensado para móvil y para negocios que venden por chat. 10 pruebas e2e con Playwright. | `Next.js` `Tailwind` `Playwright` | 🔒 Privado |
 | 🎮 **AlbionEconomy** | Herramienta de economía para *Albion Online*: flipping entre ciudades, crafteo, refinado y transmutación, con **precios actualizados automáticamente** cada ~15 min vía GitHub Actions. | `TypeScript` `Vite` `GitHub Actions` | [🔗 Demo](https://cristiandb1.github.io/AlbionEconomy/) · [💻 Código](https://github.com/CristianDB1/AlbionEconomy) |
